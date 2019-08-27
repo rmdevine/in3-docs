@@ -47,7 +47,7 @@ JMeter can be downloaded from: https://jmeter.apache.org/download_jmeter.cgi
 
     1. Login to AWS and navigate to the EC2 instance page
     
-    2. Create a new instance, choose an Ubuntu AMI]
+    2. Create a new instance, choose an Ubuntu AMI
     
     3. Provision the AWS instance with the needed information, enable CloudWatch monitoring
     
